@@ -1,1 +1,4 @@
-# cpnt200-assignment-1
+# Cpnt200
+## Assignment 1
+## Author:
+- Jian Villanueva
